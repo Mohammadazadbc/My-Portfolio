@@ -1,1 +1,1 @@
-["check my portfolio")(https://azad-portfolio-pro.netlify.app/)
+["check my portfolio"](https://azad-portfolio-pro.netlify.app/)
